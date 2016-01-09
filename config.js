@@ -11,7 +11,7 @@ config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here
     production: {
-        url: 'https://github.com/MalcomXLi/Web_Portfolio',
+        url: 'http://malcomxli.github.io/Web_Portfolio/',
         mail: {},
         database: {
             client: 'sqlite3',
